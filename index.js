@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setApplicationId('1167760523090219088')
     .setType('STREAMING')
     .setURL('https://www.youtube.com/watch?v=MtlA34oIUdU') //Must be a youtube video link 
-    .setState('Minecraft)
+    .setState('Minecraft')
     .setName('Epsilon')
     .setDetails(`.gg/eporium`)
     .setStartTimestamp(Date.now())
