@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('Epsilon')
     .setDetails(`.gg/eporium`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1193573791155097630/1202866001079963688/f8f107c8aeca73a593f2295cfaa029aa.png?ex=65cf0342&is=65bc8e42&hm=d538e6fa983d1657994468e934740c932916c043b5c4cb692f2d79d514731eb2&=&format=webp&quality=lossless&width=502&height=502') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1138857476847054941/1223136011622678659/6cd2e83766e656493133b117c1590464.png?ex=6618c12d&is=66064c2d&hm=4112c6f7af3b2e4ea72d499be8857b7f524f9454b1f3aaaff75c3949e06aadea&=&format=webp&quality=lossless&width=458&height=458') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Nitro & Exitlag available !') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1117852451236761691.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Legit Discord Shop !') //Text when you hover the Small image
